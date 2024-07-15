@@ -1,2 +1,2 @@
-# QAP3-Combined-MJ
-This repository contains the full node.js project for Semester 3, QAP 3
+# Learning-EJS
+This repository contains the full node.js code for a test project
